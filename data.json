@@ -1,0 +1,127 @@
+{
+  "profile": {
+    "name": "Your Full Name",
+    "title": "Your Title / Role",
+    "photo": "face.png",
+    "bio": "My name is Ruslan (Russ) Dashkin. I am a Computer Engineer with a decade of industry and academic experience in semicondutor physics, computer architecture, digital design, synchronous and asynchronous logic, and commercial and open-source EDA. My currently interested in the special purpose architectures that levarage advantages of asynchronous logic and device physics."
+  },
+
+  "education": [
+    {
+      "start": "2018",
+      "end": "2024",
+      "degree": "Ph.D., M.S in Electrical Engineering",
+      "institution": "Yale University",
+      "advisor": "Prof. Rajit Manohar",
+      "description": "Asynchronous RISC-V CPU Design with presilicon validation on synchronous FPGAs.",
+      "url": "https://elischolar.library.yale.edu/gsas_dissertations/1366/"
+    },
+    {
+      "start": "2012",
+      "end": "2018",
+      "degree": "Dipl. Spec. Engineer-Physicist",
+      "institution": "Moscow Engineering Physics Institute",
+      "advisor": null,
+      "description": "5.5 year program with focus on semiconductor physics and computer engineering."
+    }
+  ],
+
+  "publications": [
+    {
+      "id": "PUB-001",
+      "year": 2024,
+      "title": "Mixed-Level Emulation of Asynchronous Circuits on Synchronous FPGAs",
+      "authors": "R. Dashkin and R. Manohar",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "volume": "",
+      "pages": "",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10714366"
+    },
+    {
+      "id": "PUB-002",
+      "year": 2021,
+      "title": "General Approach to Asynchronous Circuits Simulation Using Synchronous FPGAs",
+      "authors": "R. Dashkin and R. Manohar",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "volume": "",
+      "pages": "",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9632458"
+    },
+    {
+      "id": "PUB-003",
+      "year": 2018,
+      "title": "Simulation of threshold voltage mismatch due to stochastic charge in the oxides of nanoscale MOSFETs",
+      "authors": "R. A. Dashkin, P. O. Chernyakov, G. I. Zebrev",
+      "venue": "IX International Conference on Physics and Technology of Nanoheterostructure Microwave Electronics",
+      "volume": "",
+      "pages": "",
+      "url": null
+    },
+    {
+      "id": "PUB-004",
+      "year": 2018,
+      "title": "Modeling of radiation-induced variability of parameters in nanoscale integrated circuits",
+      "authors": "G. I. Zebrev, M. S. Gorbunov, R. A. Dashkin, P. A. Chernyakov, V. O. Turin",
+      "venue": "XVII All-russian Scientific and Technical Conference \"Electronics, Mikro- and Nanoelectronics\"",
+      "volume": "",
+      "pages": "",
+      "url": "https://www.researchgate.net/publication/385950991_Modelirovanie_radiacionno-inducirovannoj_variativnosti_parametrov_v_nanorazmernyh_integralnyh_shemah"
+    }
+  ],
+
+  "experience": [
+    {
+      "start": "2025",
+      "end": "present",
+      "role": "Senior IP Logic Design Engineer",
+      "org": "Intel Corp.",
+      "location": "Santa Clara, CA",
+      "description": ""
+    },
+    {
+      "start": "2024",
+      "end": "2025",
+      "role": "FPGA and Emulation Engineer",
+      "org": "Reality Labs",
+      "location": "Sunnyvale, CA",
+      "description": ""
+    },
+    {
+      "start": "2018",
+      "end": "2024",
+      "role": "Research Assistant",
+      "org": "Yale University",
+      "location": "New Haven, CT",
+      "description": ""
+    },
+    {
+      "start": "2017",
+      "end": "2018",
+      "role": "Digital IC Design Engineer",
+      "org": "Moscow Center of Sparc Technologies",
+      "location": "Moscow, Russia",
+      "description": ""
+    },
+    {
+      "start": "2016",
+      "end": "2017",
+      "role": "FPGA Design Intern",
+      "org": "JSC \"Academician M.F.Reshetnev Information Satellite Systems\"",
+      "location": "Moscow, Russia",
+      "description": ""
+    }
+  ],
+
+  "hobbies": [
+    { "name": "Making music",       "description": "" },
+    { "name": "Listening to music", "description": "" },
+    { "name": "Gym",                "description": "" },
+    { "name": "Walking",            "description": "" }
+  ],
+
+  "links": [
+    { "platform": "GitHub",         "url": "https://github.com/rad68",                                     "label": "github.com" },
+    { "platform": "LinkedIn",       "url": "https://www.linkedin.com/in/ruslan-dashkin-a7ba5b2b/",         "label": "linkedin.com" },
+    { "platform": "Google Scholar", "url": "https://scholar.google.com/citations?user=NZUtovwAAAAJ&hl=en", "label": "scholar.google.com" }
+  ]
+}
